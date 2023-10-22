@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class JumScareMovement : MonoBehaviour {
+public class JumpScareMovement : MonoBehaviour {
 	
 	
 	private Animator anim;
